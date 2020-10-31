@@ -1,0 +1,9 @@
+name: Vanish
+author: Fin/getQueryString
+version: 1.0
+main: Listener.main
+commands:
+  vanish:
+    description: Laesst dich unsichtbar machen.
+    aliases:
+    - v
